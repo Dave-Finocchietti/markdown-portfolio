@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Super creative list item 1
+* Super creative list item 2
+* Super creative list item 3
